@@ -1,5 +1,5 @@
 let parentCompany = {
-    companyName: "Amazon Inc.",
+    companyName: "Amazon Inc",
     founded: 1994,
     founder: "Jeff Bezos",
     headquarters: "Seattle, Washington, USA",
